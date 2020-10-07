@@ -3,5 +3,6 @@ class Main {
         Tests test = new Tests();
 	    test.testMultiplication();
         test.testEquality();
+        test.testCurrency();
     }
 } 
